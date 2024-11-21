@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ER8\bin\Debug\net8.0-windows\ER8.exe
+C:\Users\Usuario\source\repos\ER8\bin\Debug\net8.0-windows\ER8.deps.json
+C:\Users\Usuario\source\repos\ER8\bin\Debug\net8.0-windows\ER8.runtimeconfig.json
+C:\Users\Usuario\source\repos\ER8\bin\Debug\net8.0-windows\ER8.dll
+C:\Users\Usuario\source\repos\ER8\bin\Debug\net8.0-windows\ER8.pdb
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.Form1.resources
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.dll
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\refint\ER8.dll
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.pdb
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ER8.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ER8\obj\Debug\net8.0-windows\ref\ER8.dll

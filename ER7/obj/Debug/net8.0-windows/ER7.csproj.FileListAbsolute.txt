@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ER7\bin\Debug\net8.0-windows\ER7.exe
+C:\Users\Usuario\source\repos\ER7\bin\Debug\net8.0-windows\ER7.deps.json
+C:\Users\Usuario\source\repos\ER7\bin\Debug\net8.0-windows\ER7.runtimeconfig.json
+C:\Users\Usuario\source\repos\ER7\bin\Debug\net8.0-windows\ER7.dll
+C:\Users\Usuario\source\repos\ER7\bin\Debug\net8.0-windows\ER7.pdb
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.Form1.resources
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.dll
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\refint\ER7.dll
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.pdb
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ER7.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ER7\obj\Debug\net8.0-windows\ref\ER7.dll
