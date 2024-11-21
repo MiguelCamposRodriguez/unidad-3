@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ER11\bin\Debug\net8.0-windows\ER11.exe
+C:\Users\Usuario\source\repos\ER11\bin\Debug\net8.0-windows\ER11.deps.json
+C:\Users\Usuario\source\repos\ER11\bin\Debug\net8.0-windows\ER11.runtimeconfig.json
+C:\Users\Usuario\source\repos\ER11\bin\Debug\net8.0-windows\ER11.dll
+C:\Users\Usuario\source\repos\ER11\bin\Debug\net8.0-windows\ER11.pdb
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.Form1.resources
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.dll
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\refint\ER11.dll
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.pdb
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ER11.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ER11\obj\Debug\net8.0-windows\ref\ER11.dll
