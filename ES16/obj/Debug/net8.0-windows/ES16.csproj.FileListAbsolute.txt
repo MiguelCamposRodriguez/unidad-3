@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ES16\bin\Debug\net8.0-windows\ES16.exe
+C:\Users\Usuario\source\repos\ES16\bin\Debug\net8.0-windows\ES16.deps.json
+C:\Users\Usuario\source\repos\ES16\bin\Debug\net8.0-windows\ES16.runtimeconfig.json
+C:\Users\Usuario\source\repos\ES16\bin\Debug\net8.0-windows\ES16.dll
+C:\Users\Usuario\source\repos\ES16\bin\Debug\net8.0-windows\ES16.pdb
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.Form1.resources
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.dll
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\refint\ES16.dll
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.pdb
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ES16.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ES16\obj\Debug\net8.0-windows\ref\ES16.dll
