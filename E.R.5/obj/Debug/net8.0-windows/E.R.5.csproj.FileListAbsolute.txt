@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\E.R.5\bin\Debug\net8.0-windows\E.R.5.exe
+C:\Users\Usuario\source\repos\E.R.5\bin\Debug\net8.0-windows\E.R.5.deps.json
+C:\Users\Usuario\source\repos\E.R.5\bin\Debug\net8.0-windows\E.R.5.runtimeconfig.json
+C:\Users\Usuario\source\repos\E.R.5\bin\Debug\net8.0-windows\E.R.5.dll
+C:\Users\Usuario\source\repos\E.R.5\bin\Debug\net8.0-windows\E.R.5.pdb
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R._5.Form1.resources
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R.5.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R.5.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R.5.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R.5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R.5.dll
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\refint\E.R.5.dll
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R.5.pdb
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\E.R.5.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\E.R.5\obj\Debug\net8.0-windows\ref\E.R.5.dll

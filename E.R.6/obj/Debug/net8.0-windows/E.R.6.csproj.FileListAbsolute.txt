@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\E.R.6\bin\Debug\net8.0-windows\E.R.6.exe
+C:\Users\Usuario\source\repos\E.R.6\bin\Debug\net8.0-windows\E.R.6.deps.json
+C:\Users\Usuario\source\repos\E.R.6\bin\Debug\net8.0-windows\E.R.6.runtimeconfig.json
+C:\Users\Usuario\source\repos\E.R.6\bin\Debug\net8.0-windows\E.R.6.dll
+C:\Users\Usuario\source\repos\E.R.6\bin\Debug\net8.0-windows\E.R.6.pdb
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R._6.Form1.resources
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R.6.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R.6.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R.6.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R.6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R.6.dll
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\refint\E.R.6.dll
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R.6.pdb
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\E.R.6.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\E.R.6\obj\Debug\net8.0-windows\ref\E.R.6.dll
